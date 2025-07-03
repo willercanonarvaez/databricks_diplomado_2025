@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo la recolección, limpieza y análisis de datos provenientes de dos fuentes oficiales del gobierno colombiano: el SECOP Integrado y el Ministerio de Educación Nacional. Una vez procesados, los datos serán cargados a **Databricks** para su exploración, modelamiento y visualización.
 
-## 📂 Fuentes de Datos
+## 📂 Fuentes de Datos para el estudio
 
 1. **SECOP Integrado (Contratación Pública)**  
    - URL: [https://www.datos.gov.co/resource/rpmr-utcd.csv](https://www.datos.gov.co/resource/rpmr-utcd.csv)  
